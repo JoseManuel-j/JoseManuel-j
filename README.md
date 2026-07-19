@@ -86,7 +86,7 @@ https://www.linkedin.com/in/jose-manuel-151352330
 
 🌐 Portfolio
 
-https://portofolio-jose-indol.vercel.app/
+https://josem-portfolio.vercel.app/
 
 ---
 
