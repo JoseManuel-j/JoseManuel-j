@@ -15,7 +15,7 @@ Currently learning and improving my frontend development skills every day.
 
 🎓 Computer Science Student
 
-💻 Interested in Frontend Development
+💻 Interested in web Development
 
 🌱 Currently learning React, JavaScript, and Laravel
 
