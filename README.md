@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jose Manuel 👋</h1>
 
 <p align="center">
-  <b>Aspiring Frontend Developer</b>
+  <b>Aspiring Web Developer</b>
 </p>
 
 <p align="center">
