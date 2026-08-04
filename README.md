@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jose Manuel 👋</h1>
+<h1 align="center">Hi, I'm Jose Manuel 👋</h1>
 
 <p align="center">
   <b>Aspiring Web Developer</b>
@@ -15,7 +15,7 @@ Currently learning and improving my frontend development skills every day.
 
 🎓 Computer Science Student
 
-💻 Interested in web Development
+💻 Interested in web Developer
 
 🌱 Currently learning React, JavaScript, and Laravel
 
