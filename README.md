@@ -21,7 +21,7 @@ Currently learning and improving my frontend development skills every day.
 
 🚀 Building personal projects to improve my skills
 
-🎯 Open to Frontend Developer Internship opportunities
+🎯 Open to Full-stack Developer Internship opportunities
 
 ---
 
