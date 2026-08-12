@@ -57,20 +57,23 @@ Responsive portfolio website built using React and Tailwind CSS.
 
 A Laravel-based web application for managing courses, registrations, and administration.
 
-### 🎓 Student CRUD Application
+### 🎓 Ecommerce Website 
 
-Simple CRUD application built with PHP and MySQL.
+simple website created using html, css, js and deployed using vercel.
 
 ---
 
 ## 📖 Currently Learning
 
 - React.js
+- Next.js
+- TypeScript
 - REST API Integration
 - JavaScript ES6+
 - Responsive Web Design
 - Clean Code
 - Git Collaboration
+- PostgreSQL
 
 ---
 
